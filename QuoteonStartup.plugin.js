@@ -1,6 +1,6 @@
 /**
  * @name QuoteonStartup
- * @author saulgoodman7277
+ * @author saulgoodman7277, bobboe
  * @description Displays a random quote everytime you launch discord.
  * @version 0.0.1
  */
