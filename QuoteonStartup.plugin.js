@@ -20,6 +20,7 @@ module.exports = class QuoteOnStartup {
             "Innovation distinguishes between a leader and a follower. – Steve Jobs",
             "It does not matter how slowly you go as long as you do not stop. – Confucius",
             "Success is not final, failure is not fatal: It is the courage to continue that counts. – Winston Churchill",
+            /**API for quotes using BetterDiscord Libraries*/
         ];
 
         const randomIndex = Math.floor(Math.random() * quotes.length);
